@@ -4,12 +4,16 @@ We can download different category of charts by setting parameters.
 
 # Package needed
 - urllib
+
 - bs4
+
 - sys
+
 - logging
+
 - datetime
 
-# 參數設定
+# Parameters
 - class_id
 
 - RankType
