@@ -12,6 +12,7 @@ We can download different category of charts by setting parameters.
 # Parameters
 - class_id
 - RankType
+
      week, month, or year
 - start date
 - end date
