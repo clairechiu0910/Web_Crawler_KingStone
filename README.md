@@ -12,7 +12,7 @@ We can download different category of charts by setting parameters.
 # 參數設定
 - class_id
   
-- RankType
+- RankType\n
   week, month, or year
 - start date
 - end date
