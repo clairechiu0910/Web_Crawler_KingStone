@@ -11,6 +11,12 @@ We can download different category of charts by setting parameters.
 
 # Parameters
 - class_id
+     
+     文學: BBBB \n
+     財經企管: EEEE \n
+     飲食料理: TTTT
+     and so on...
+     They can be checked on KingStone Website.
 - RankType
 
      week, month, or year
