@@ -21,3 +21,6 @@ We can download different category of charts by setting parameters.
   week, month, or year  
 - start date
 - end date
+
+# Other
+You need to create a folder named "data_title_abs".
