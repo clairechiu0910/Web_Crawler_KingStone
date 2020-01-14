@@ -1,5 +1,5 @@
 # Web_Crawler_KingStone
-Crawl title and abstract of books in top 100 charts.
+This is a python package that can crawl title and abstract of books in top 100 charts.
 We can download different category of charts by setting parameters.
 
 # Package needed
