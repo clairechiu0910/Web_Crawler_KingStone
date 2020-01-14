@@ -19,8 +19,10 @@ We can download different category of charts by setting parameters.
 - RankType
 
   week, month, or year  
-- start date
-- end date
+- start date  
+  <class 'datetime.date'
+- end date  
+  class 'datetime.date'
 
 # Other
 You need to create a folder named "data_title_abs".
