@@ -20,9 +20,9 @@ We can download different category of charts by setting parameters.
 
   week, month, or year  
 - start date  
-  <class 'datetime.date'
+  <class 'datetime.date'>
 - end date  
-  class 'datetime.date'
+  <class 'datetime.date'>
 
 # Other
 You need to create a folder named "data_title_abs".
